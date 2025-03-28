@@ -16,7 +16,7 @@ body {
 
 
 .logo {
-  height: 130px;
+  height: 8.125em;
   margin-right: 2em;
   border-radius: 30%;
 }
@@ -707,7 +707,7 @@ body {
   .nav-container {
     flex-direction: column;
     align-items: center;
-  }
+   }
 
   .nav-links {
     flex-direction: column;
@@ -783,9 +783,6 @@ body {
     font-size: 20px;
   }
 
-  .nav-logo img {
-    width: 60px;
-  }
 
   .service-intro-card {
     flex-direction: column;
